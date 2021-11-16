@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kevin Chinabalire
+- 👋 Hi, I’m Kevin Janvier
 - 👀 I’m interested in Java 
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Java open source
